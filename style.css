@@ -1,0 +1,63 @@
+body {
+	background-image: url(imagens/fotolandingpage1920_1080.png);
+	background-size: cover;
+	color: whitesmoke;
+	text-align: right;
+	margin: 0px 40px 0px 0px;
+	font-family: 'Inter', sans-serif;
+} 
+
+h1 {
+	font-size: 120px;
+	font-weight: 700;
+	padding-top: 280px;
+	margin-bottom: 15px;
+} 
+
+p {
+	font-size: 50px;
+	font-weight: 400;
+	line-height: 65px;
+}
+span {
+	font-weight: 700;
+	text-decoration: underline;
+}
+
+ul {
+	list-style: none;
+	margin-top: 50 px;
+}
+
+li {
+	display: inline;
+}
+
+ul li a {
+	color: whitesmoke;
+	text-decoration: none;
+	font-size: 40 px;
+	padding: 5 px;
+}
+
+ul li a:hover{
+	opacity: 0.8;
+}
+
+.segundo-paragrafo{
+	color: aqua;
+}
+
+.botao {
+	text-decoration: none;
+	color: whitesmoke;
+	background-color: aqua; 
+	padding: 10px 15px;
+}
+
+.botao:hover {
+	opacity: 0.9;
+}
+
+
+
