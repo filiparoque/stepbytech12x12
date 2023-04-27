@@ -146,14 +146,14 @@ body {
 	min-height: 35%;
 	background-color: #f3f3f3;
 	display:flex;
+	align-items: center;
 	justify-content: center;
 	text-align: center;
 }
 .container4 ul {
 	list-style-type: none;
 	font-size: 0.938rem;
-	padding:0;
-	align-items: center;
+	padding:0;	
 }
 .container4 li {
 	padding: 15px;
