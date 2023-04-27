@@ -37,36 +37,35 @@ body {
 	font-size: 3.75rem;
 	font-weight: 600;
 	text-transform: uppercase;
-	}	
+}	
 .column2-text p {
 	font-size: 1.125rem;
 	font-weight: 400;
 	line-height: 1.875rem;
 	margin-bottom: 2.188rem;
-	}
+}
 .know-more {
-		text-decoration: underline;
-		color: rgb(249, 248, 246);
-	}
+	text-decoration: underline;
+	color: rgb(249, 248, 246);
+}
 .know-more:hover {
 	text-decoration: none;
 }
 .apply-now {
-		text-decoration: none;
-		font-weight: 600;
-		color:rgb(35, 31, 32);
-		background-color: rgb(249, 248, 246); 
-		padding: 10px 25px;
-		border-radius: 40px;
-	}
+	text-decoration: none;
+	font-weight: 600;
+	color:rgb(35, 31, 32);
+	background-color: rgb(249, 248, 246); 
+	padding: 10px 25px;
+	border-radius: 40px;
+}
 .apply-now:hover {
 	opacity: 0.8;
 }
 .container2 {
 	display:flex;
 	background-color: rgb(249, 248, 246);
-	height: 100%;
-	
+	height: 100%;	
 }
 .column3, .column4 { 
 	flex: 50%;
