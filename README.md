@@ -1,7 +1,6 @@
 # 12x12
 
-**All Artwork Images - copyright from the artists 
-**(do not use without permission)
+**All Artwork Images - copyright from the artists** (do not use without permission)
 
 **Brand, Webdesign and Website Development** - Filipa Roque
 
