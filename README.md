@@ -12,7 +12,7 @@ Please refer to [Facebook link](https://www.facebook.com/dozepordoze) if you wis
 All recent visual design changes to the original 12x12 logo are external to my decision. 
 
 
-<h1>About me</h1>
+## About me
 I'm a passionate graphic designer, self-taught UX design, taking her first steps in front-end. 
 
 - 🌱 I’m currently improving my knowledge in **Ux design, After effects and Premiere Pro**
