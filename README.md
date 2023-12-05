@@ -18,7 +18,7 @@ I'm a passionate graphic designer, self-taught UX design, taking her first steps
 - 🌱 I’m currently improving my knowledge in **Ux design, After effects and Premiere Pro**
 
 - 👯 I’m looking to collaborate on **projects as a Ux designer**
-- 
+  
 - 👨‍💻 My design projects are available at [BEHANCE](https://www.behance.net/roque_filipa)
 
 - 💬 Ask me about **graphic design and UX design**
